@@ -1,0 +1,9 @@
+User-agent: * Allow: /
+
+
+
+
+Sitemap: https://shineshen.cn/sitemap.xml
+
+Sitemap: https://shineshen.cn/baidusitemap.xml
+ 

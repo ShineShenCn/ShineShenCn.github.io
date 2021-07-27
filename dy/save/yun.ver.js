@@ -1,1 +1,0 @@
-document.writeln("<font color=\'#ff0000\'>2019-06-13-01 for 3.8+</font>");
